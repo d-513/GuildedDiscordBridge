@@ -1,0 +1,16 @@
+{
+  "name": "guildedbridge",
+  "version": "1.0.0",
+  "description": "Sync messages between discord and guilded",
+  "main": "src/es.js",
+  "repository": "https://github.com/dada513/GuildedSync",
+  "author": "dada513",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1",
+    "esm": "^3.2.25",
+    "gupi": "^1.1.7"
+  }
+}
